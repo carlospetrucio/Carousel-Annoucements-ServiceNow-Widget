@@ -133,7 +133,7 @@ In the tab "portals" you can choose if you want this message to be displayed in 
   <a href="https://www.facebook.com/CarlosPetrucioo" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="/></a>
 
-  <a href="https://www.instagram.com/carlosfreeitas/" alt="Instagram">
+  <a href="https://www.instagram.com/_carlospetrucio/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
 </p>  
 
