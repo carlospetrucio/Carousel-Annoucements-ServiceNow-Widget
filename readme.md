@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/carlospetrucio/ServiceNow/main/Service%20Portal/Widgets/Carousel%20Announcements%20Widget/ignore_files_md/computer-illustration.png" min-width="250px" max-width="250px" width="400px" align="right" alt="Computador CarlosPetrucio">
+<img src="https://raw.githubusercontent.com/carlospetrucio/Carousel-Annoucements-ServiceNow-Widget/main/ignore_files_md/computer-illustration.png" min-width="250px" max-width="250px" width="400px" align="right" alt="Computador CarlosPetrucio">
 
 # Carousel Announcements
 <img src="https://img.shields.io/badge/Carousel%20Announcements-Active-green.svg">
